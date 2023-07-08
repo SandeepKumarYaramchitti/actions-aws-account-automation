@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Sandeep Yaramchitti'
+description: 'Actions for AWS account management'
+author: 'Cloudysky'
 inputs:
   milliseconds: # change this
     required: true
